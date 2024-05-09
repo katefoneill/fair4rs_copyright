@@ -2,23 +2,26 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Lesson Title # FIXME
+title: Software Licensing # FIXME
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: '' # FIXME
-    family-names: '' # FIXME
-    email: '' # FIXME
+  - given-names: 'Kate'
+    family-names: 'O'Neill'
+    email: 'k.oneill@sheffield.ac.uk'
     affiliation: University of Sheffield
     orcid: 'https://orcid.org/0000-XXXX-XXXX-XXXX' # FIXME
-repository-code: 'https://github.com/' # FIXME
-url: '' # FIXME
+repository-code: 'https://github.com/katefoneill/fair4rs_software_licensing'
+url: 'https://github.com/katefoneill/fair4rs_software_licensing'
 abstract: >-
   # FIXME
 keywords: # FIXME
   - carpentries
   - fair4rs
   - university of sheffield
+  - software
+  - fair4rs
+  - licensing
 license: CC-BY-4.0
