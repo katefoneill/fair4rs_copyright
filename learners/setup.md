@@ -31,7 +31,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+Test to see if we can rearrange all your business!
 
 ::::::::::::::::::::::::
 
